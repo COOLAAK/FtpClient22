@@ -13,6 +13,7 @@ namespace FtpClient
             Respoonse("ftp://10.7.180.107:21", fileStruct);
            Save("D:\\Save", "ftp://10.7.180.107:21",fileStruct);
           //  Console.Read();
+          //budka
         }
 
         static void Respoonse(string Addres,FileStruct FileStr)
